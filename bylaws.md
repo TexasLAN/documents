@@ -155,3 +155,7 @@ Any communications through social media must follow an official announcement in 
 Changes to these bylaws may proposed and drafted by the Board, which is will then present the proposed changes to the general membership in a full meeting called for that purpose.
 Additionally, once every academic year in the spring semester, the current Board shall meet with the general membership to discuss the current bylaws and determine if any changes must be made.
 At such special meetings, a vote of 2/3rds of the membership may approve changes to the bylaws drafted by the Board, and a vote of 2/3rds of the membership may propose changes to the Bylaws to the Board.
+
+**Article XI. Self-love**
+
+In keeping with the advice of our outgoing senior class, all members of Lambda Alpha Nu are expected to regularly profess love to themselves.
