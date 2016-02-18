@@ -1,4 +1,4 @@
-ΛΑΝ By-Laws Release Candidate
+ΛΑΝ By-Laws
 
 NOTES ON FORMATTING:
 For quality of diffs, please use one line per logical . terminated sentence.
