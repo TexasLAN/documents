@@ -12,6 +12,7 @@ The purchase proposal process is designed to facilitate discussion regarding lar
     * If the proposal is approved, the process will continue as described below.
 * The Treasurer will present the purchase proposal to the Board at an officer meeting.
     * The Board can veto the purchase proposal by a ⅔’rds vote. If vetoed, the proposal must be recreated and must go through the entire purchase proposal process again.
+   	* In the event of the need for an immediate purchase, the Board may vote unamiously to immediately approve the proposal with no presentation at a general meeting. Such approvals are frowned upon and should be immediately disclosed and justified to the general membership.
     * If the proposal is not vetoed, the process will continue as described below.
 * The Treasurer will briefly present the purchase proposal at a general meeting.
     * The general membership may initiate the veto process by support of three active members.
