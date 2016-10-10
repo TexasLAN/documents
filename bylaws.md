@@ -98,6 +98,21 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   The Treasurer shall further have primary responsibility for the management and collection of dues and other fees such as the board may see fit as to instate.
 	   The Treasurer’s primary responsibility shall be to present a written statement of accounts and transactions to the board on a semesterly basis.
 	   In the case of financial difficulty, the Treasurer shall be responsible for notifying the Board immediately and assisting in the design and execution of recovery efforts.
+        1. In the event that there needs to be a purchase that is not in the budget and that is also $50 or more, it must go through the proposal process as described below, otherwise the Treasurer has primary responsibility for those purchases.
+          1. An active member (sponsor) and co-sponsor make a copy of the [Purchase Proposal Form](https://docs.google.com/document/d/1NLBVKC-qtxbgqiNM-yJDcRpZsLDAnCEaChASRXLSzP8/edit?usp=sharing) and fills out the appropriate sections (down to **Follow up date**).
+          2. The sponsor presents the completed proposal form to Treasurer for approval.
+            1. If the proposal is rejected, the Treasurer will inform the sponsor of adjustments to be made. The proposal can be resubmitted to the Treasurer once corrected.
+            2. If the proposal is approved, the process will continue as described below.
+          3. The Treasurer will present the purchase proposal to the Board at an officer meeting.
+            1. The Board can veto the purchase proposal by a ⅔’rds vote. If vetoed, the proposal must be recreated and must go through the entire purchase proposal process again.
+            2. In the event of the need for an immediate purchase, the Board may vote unamiously to immediately approve the proposal with no presentation at a general meeting. Such approvals are frowned upon and should be immediately disclosed and justified to the general membership through email and in the next general meeting.
+            3. If the proposal is not vetoed, the process will continue as described below.
+          4. The Treasurer will briefly present the purchase proposal at a general meeting.
+            1. The general membership may initiate the veto process by support of three active members.
+            2. The general membership may veto the purchase proposal by a simple majority of those present. If vetoed, the proposal must be recreated and must go through the entire purchase proposal process again.
+          5. The purchase proposal is executed as described in the proposal form.
+          6. The Treasurer will follow up with the purchase to ensure it is properly and fully executed.
+          7. If the purchase is not properly executed as described in the purchase proposal, the Treasurer will take steps to correct the situation (including, but not limited to, cancellation of the purchase proposal).
 5. Terms of Office:
     1. Officers shall be elected towards the end of the spring semester on a yearly basis.
 	   In addition, an officer who is unable to complete the second semester of their duties shall be replaced in an election at the end of the fall semester.
@@ -128,7 +143,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   The person under consideration shall not be counted in determining the presence of a quorum nor whether the required two-thirds vote has been obtained.
 	   Upon a vote of removal or suspension of an officer, the normal vacancy policy immediately comes into effect.
 6. Powers of the Board
-   1. In its executive capacity, the Board is authorized to plan and conduct Rush as well as other events; to set and collect dues; take disciplinary action against Members under established Policies and Codes of Conduct; to accept new Pledges into the Fraternity and conduct all business necessary and proper to the function and continuance of the Fraternity.
+   1. In its executive capacity, the Board is authorized to plan and conduct Rush as well as other events; to set and collect dues; take disciplinary action against Members under established Policies and Codes of Conduct; to accept new Pledges into the Fraternity and conduct all business necessary and proper to the function and continuance of the Fraternity that are otherwise not specified in these bylaws.
    2. The Board may make and impose no Rule, Policy or Code of Conduct upon the Membership of the Fraternity save by a 2/3rds vote of the Membership taken at a General or Special meeting of the Fraternity.
 
 **Article VI. Committees**
