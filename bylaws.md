@@ -99,7 +99,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   The Treasurer’s primary responsibility shall be to present a written statement of accounts and transactions to the board on a semesterly basis.
 	   In the case of financial difficulty, the Treasurer shall be responsible for notifying the Board immediately and assisting in the design and execution of recovery efforts.
         1. In the event that there needs to be a purchase that is not in the budget and that is also $50 or more, it must go through the proposal process as described below, otherwise the Treasurer has primary responsibility for those purchases.
-          1. An active member (sponsor) and co-sponsor make a copy of the [Purchase Proposal Form](https://docs.google.com/document/d/1NLBVKC-qtxbgqiNM-yJDcRpZsLDAnCEaChASRXLSzP8/edit?usp=sharing) and fills out the appropriate sections (down to **Follow up date**).
+          1. An active member (sponsor) and co-sponsor make a copy of the [Purchase Proposal Form](./purchase_proposal_form.md) and fills out the appropriate sections (down to **Follow up date**).
           2. The sponsor presents the completed proposal form to Treasurer for approval.
             1. If the proposal is rejected, the Treasurer will inform the sponsor of adjustments to be made. The proposal can be resubmitted to the Treasurer once corrected.
             2. If the proposal is approved, the process will continue as described below.
