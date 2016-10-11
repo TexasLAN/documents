@@ -153,7 +153,19 @@ All members must provide and monitor an email address which will serve as the so
 Emails from the board must be sent from an @texaslan.org (http://texaslan.org/) email account.
 Any communications through social media must follow an official announcement in email form.
 
-**Article X. Amendments**
+**Article X. Plan of Dissolution and Liquidation**
+
+1. Authorizing Dissolution:
+   1. The Board may propose the dissolution of the Fraternity to the general membership. After such proposal, a vote of 2/3rds of the membership may approve the dissolution of the Fraternity. In such case, the remainder of this plan shall be executed as follows.
+   2. This plan shall also be executed in the event of an involuntary dissolution of the Fraternity.
+2. Winding Up:
+   1. Upon the initation of the dissolution process, the Treasurer shall compile all outstanding debts, remaining assets, and current balances of all accounts and report each to the Board. 
+   2. The Treasurer shall be responsible for the payment of all outstanding debts and the sale of remaining assets. 
+   3. Any assets loaned to the Fraternity shall be returned to its original owner.
+   4. All remaining funds and assets must be distributed to another 501(c)(3) organization.
+   5. The Vice-President of Administration shall be responsible for the reporting of the dissolution of the Fraternity to the general and Alumni membership of the Fraternity, the University, and necessary government organizations, along with closing all accounts associated with the Fraternity.
+
+**Article XI. Amendments**
 
 Changes to these bylaws may proposed and drafted by the Board, which is will then present the proposed changes to the general membership in a full meeting called for that purpose.
 Additionally, once every academic year in the spring semester, the current Board shall meet with the general membership to discuss the current bylaws and determine if any changes must be made.
