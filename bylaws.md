@@ -111,7 +111,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
             1. The general membership may initiate the veto process by support of three active members.
             2. The general membership may veto the purchase proposal by a simple majority of those present. If vetoed, the proposal must be recreated and must go through the entire purchase proposal process again.
           5. The purchase proposal is executed as described in the proposal form.
-          6. The Treasurer will follow up with the sponsor to ensure it is properly and fully executed.
+          6. The Treasurer will follow up with the proposal sponsor to ensure it is properly and fully executed.
           7. If the purchase is not properly executed as described in the purchase proposal, the Treasurer will take steps to correct the situation (including, but not limited to, cancellation of the purchase proposal).
 5. Terms of Office:
     1. Officers shall be elected towards the end of the spring semester on a yearly basis.
