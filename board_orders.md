@@ -5,6 +5,7 @@ For quality of diffs, please use one line per logical . terminated sentence.
 This means that diffs are on a sentence by sentence basis and thus easier to read rather than being paragraph by paragraph which can hide exact textual changes.
 
 **Board Order I. Purchase Proposal**
+
 In the event that there needs to be a purchase that is not in the budget and that is also $50 or more, it must go through the proposal process as described below, otherwise the Treasurer has primary responsibility for those purchases.
 
 1. An active member (sponsor) and co-sponsor make a copy of the [Purchase Proposal Form](./purchase_proposal_form.md) and fills out the appropriate sections (down to **Follow up date**).
