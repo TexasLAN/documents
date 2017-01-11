@@ -53,8 +53,10 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
     5. Vice-president of Social Affairs
         1. Historian
         2. Solidarity Officer
+        3. Marketing Officer
     6. Vice-president of New Member services
         1. Pledge Trainer(s)
+        2. Capstone Officer
     7. Treasurer
 2. The Board shall be formed of the following titular officers:
     1. President
@@ -71,7 +73,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 4. Duties of Officers:
     1. The President, being an elected position, shall preside at all meetings, and is responsible for ensuring that the Board, officers, and the organization's members are aware of and fulfill their responsibilities, comply with applicable rules and bylaws, conduct board business effectively and efficiently, and are accountable for their performance.
     2. The Vice-President of Administration, being an elected position, shall act in the absence of the President in all capacities as listed above and shall assist in conducting the business of the organization.
-       In these duties the Vice-President shall have the support of the Webmaster and Officer of Services Activities.
+       In these duties the Vice-President shall have the support of the Webmaster.
 	   Additionally, the Vice-President of Administration shall act as a secretary, and shall be expected to record the minutes of all board and full member meetings and have knowledge about previous discussions and positions.
         1. The Webmaster, being a nominated position, shall maintain all computer services pertaining to the organization, including, but not limited to, the official website, official emails, and hosting services.
            They will also be expected to manage all technical aspects of the social groups maintained by the organization.
@@ -85,8 +87,9 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
            They will advise the Vice-President of Standards of appropriate action regarding the reduction or elimination of the risk associated with said events and activities.
     5. The Vice-President of Social Affairs, being an elected position, shall have responsibility for the organization and planning of all official social events, to include organizing rush events in concert with the Vice-President of New Member Services, and primary responsibility for normal semester social activities.
 	   They will also be responsible for managing the official social media accounts for the organization.
-        1. The Historian, being an elected position, is expected to record the social events put on by the organization and make such records available to the Board and other Officers.
-        2. The Solidarity officer, being an elected position, shall have the responsibility of planning events surrounding the bonding and fostering of community within the fraternity, with assistance from the Vice-President of Social Affairs.
+        1. The Historian, being a nominated position, is expected to record the social events put on by the organization and make such records available to the Board and other Officers.
+        2. The Solidarity officer, being a nominated position, shall have the responsibility of planning events surrounding the bonding and fostering of community within the fraternity, with assistance from the Vice-President of Social Affairs.
+        3. The Marketing officer, being a nominated position, shall have the responsibility of organizing and ordering merchandise and advertising for the fraternity.
     6. The Vice-president of New Member services, informally known as the warden, being an elected position, shall have primary responsibility for organizing the member intake process, and organizing rush events in concert with the Vice-President of Social.
 	   The Vice-President of New Member Services shall be responsible for nominating a Pledge Trainer, with a board approval.
 	   Additional duties entail the creation of a pledge education curriculum, heading all rush related committees, and being the point of authority for the pledges.
@@ -94,6 +97,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
         2. The Pledge Trainer and Vice President of New Member Services may terminate Pledge status at their unanimous discretion.
 		   The Pledge Trainer and Vice President of New Member Services are directed to confer with Pledges in danger of termination, and barring exceptional circumstances, consult with the Board on potential Pledge termination.
 		   This decision may be reversed by a vote of two-thirds of the Board.
+        3. The Capstone officer, being a nominated position, shall have the responsibility of organizing and leading the capstone projects for the pledges.
     7. The Treasurer, being an elected position, shall have ultimate responsibility for maintaining financial records and semester to date operating budgets.
 	   The Treasurer shall further have primary responsibility for the management and collection of dues and other fees such as the board may see fit as to instate.
 	   The Treasurer’s primary responsibility shall be to present a written statement of accounts and transactions to the board on a semesterly basis.
@@ -114,7 +118,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
           6. The Treasurer will follow up with the proposal sponsor to ensure it is properly and fully executed.
           7. If the purchase is not properly executed as described in the purchase proposal, the Treasurer will take steps to correct the situation (including, but not limited to, cancellation of the purchase proposal).
 5. Terms of Office:
-    1. Officers shall be elected towards the end of the spring semester on a yearly basis.
+    1. Elected Officer posistions shall be elected on towards the end of the spring semester on a yearly basis.
 	   In addition, an officer who is unable to complete the second semester of their duties shall be replaced in an election at the end of the fall semester.
     2. A Member may serve in an  elected Officer position for only one full term.
 	   Members may be nominated for the same position repeatedly, unless there is compelling organizational reason to do so such re-appointments shall be frowned upon.
@@ -126,15 +130,17 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   If no majority is achieved or if no vote achieves a majority then all standing candidates are discarded and the election for that position must be re-run.
 	   Candidates may be re-nominated.
     2. Board motions shall require a 2/3rds vote of the Board members to pass.
-7. Board meetings:
+7. Nominating:
+    1. For all nominated positions, they shall be chosen by the Board officer to whom the nominated position reports, and must be approved by a vote of 2/3rds of the Board.
+8. Board meetings:
     1. Board meetings can be attended by all active members of the fraternity. 
     2. Meetings will adhere to a strict agenda organized by the secretary prior to the meeting.
     3. 2/3rds of the board members must be present to constitute an official board meeting.
     4. Emergency meetings of the Board shall be held when directed by the president or by two members of the voting board.
 	   All Board members must be given notice of such a meeting and the meeting must be conducted in as similar a fashion as possible to a regular board meeting.
-8. Vacancies and Removal:
+9. Vacancies and Removal:
     1. A vacancy in the office of the President shall be filled by the Vice-President of Administration unless he or she is unable to serve, at which time a full special election must be held.
-    2. All vacancies in other Board positions are filled with a special election.
+    2. All vacancies in other elected positions are filled with a special election.
     3. Vacancies in nominated positions shall be filled by nomination of the Board officer to whom the nominated position reports, as approved by a vote of 2/3rds of the Board.
 	   If the Board officer fails to promptly supply a nominee or fails to supply a nominee acceptable to 2/3rds of the Board, 2/3rds of the Board may install a nominee of their choosing.
     4. Any officer, including the President and appointed positions, may be removed from office or suspended from office by a vote of two-thirds of the active membership at a regular meeting.
@@ -142,9 +148,9 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   The person under consideration shall be given an opportunity to be heard at the meeting with sufficient notice of the proposed removal or suspension.
 	   The person under consideration shall not be counted in determining the presence of a quorum nor whether the required two-thirds vote has been obtained.
 	   Upon a vote of removal or suspension of an officer, the normal vacancy policy immediately comes into effect.
-6. Powers of the Board
-   1. In its executive capacity, the Board is authorized to plan and conduct Rush as well as other events; to set and collect dues; take disciplinary action against Members under established Policies and Codes of Conduct; to accept new Pledges into the Fraternity and conduct all business necessary and proper to the function and continuance of the Fraternity that are otherwise not specified in these bylaws.
-   2. The Board may make and impose no Rule, Policy or Code of Conduct upon the Membership of the Fraternity save by a 2/3rds vote of the Membership taken at a General or Special meeting of the Fraternity.
+10. Powers of the Board
+	1. In its executive capacity, the Board is authorized to plan and conduct Rush as well as other events; to set and collect dues; take disciplinary action against Members under established Policies and Codes of Conduct; to accept new Pledges into the Fraternity and conduct all business necessary and proper to the function and continuance of the Fraternity that are otherwise not specified in these bylaws.
+	2. The Board may make and impose no Rule, Policy or Code of Conduct upon the Membership of the Fraternity save by a 2/3rds vote of the Membership taken at a General or Special meeting of the Fraternity.
 
 **Article VI. Committees**
 
@@ -168,8 +174,13 @@ All members must provide and monitor an email address which will serve as the so
 Emails from the board must be sent from an @texaslan.org (http://texaslan.org/) email account.
 Any communications through social media must follow an official announcement in email form.
 
-**Article X. Amendments**
+**Article X. Board Orders**
+
+Processes that aren't required to be in the Bylaws shall be placed in the Board Orders document, to where it defines extra processes these bylaws must follow.
+These Board Orders can be altered by a vote of 2/3rds of the Board.
+
+**Article XI. Amendments**
 
 Changes to these bylaws may proposed and drafted by the Board, which is will then present the proposed changes to the general membership in a full meeting called for that purpose.
-Additionally, once every academic year in the spring semester, the current Board shall meet with the general membership to discuss the current bylaws and determine if any changes must be made.
+Additionally, once every academic year in the spring semester, the current Board shall meet with the general membership to discuss the current bylaws and board orders, and determine if any changes must be made.
 At such special meetings, a vote of 2/3rds of the membership may approve changes to the bylaws drafted by the Board, and a vote of 2/3rds of the membership may propose changes to the Bylaws to the Board.
