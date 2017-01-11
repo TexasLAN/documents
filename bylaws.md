@@ -176,7 +176,7 @@ Any communications through social media must follow an official announcement in 
 
 **Article X. Board Orders**
 
-Processes that aren't required to be in the Bylaws shall be placed in the Board Orders document, to where it defines extra processes these bylaws must follow.
+Processes that aren't required to be in the Bylaws shall be placed in the [Board Orders Document](./board_orders.md), to where it defines extra processes these bylaws must follow.
 These Board Orders can be altered by a vote of 2/3rds of the Board.
 
 **Article XI. Amendments**
