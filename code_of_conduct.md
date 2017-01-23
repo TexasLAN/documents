@@ -102,49 +102,48 @@ All members in good standing and prospective members are entitled to receive a c
 
 **Section 1**. Any Member found guilty of any of the above offenses shall, upon a disciplinary determination by the Standards Board with the VP of Standards, be subjected to one or more of the following penalties:
 
--
-  -
-  -
-    - ▪▪Indefinite Period.
-    - ▪▪Designated Period.
-  -
-  -
+- Explusion.
+- Suspension.
+  - Indefinite Period.
+  - Designated Period.
+- Probation.
+- Fine.
 
 When these penalties are properly imposed upon a Member, the penalties shall be honored and held binding.
 
 **Section 2**. Penalties Defined.
 
--
-  -
-    - ▪▪An expelled member shall:
-      - Surrender their membership and effects thereof to the President of Texas Lambda Alpha Nu.
-      - Surrender clothing or jewelry bearing any identity with the Fraternity.
-      - Remove him or herself and his or her personal effects from the property of the Chapter.
-      - May not attend any meeting of any chapter.
-      - Cease to identify himself or herself with the Fraternity in any manner on or off campus..
-    - ▪▪Bannings and Warnings shall be delivered on paper, and shall be signed by all parties involved  and retained by the VP of Administration.
-    - ▪▪The Secretary of Texas Lambda Alpha Nu shall maintain a permanent blacklist of all former members so expelled.
-  - A member may be suspended for:
-    - ▪▪Indefinite period. A member suspended for an indefinite period shall:
-      - Remove him or herself and his or her personal effects from the property of the Chapter and he or she may not return unless and until expressly permitted to do so by the Standards Board.
-      - Not attend any Fraternity meetings, vote, or hold office, nor shall he or she attend any Fraternity gathering not attended by the public unless and until expressly permitted to do so by the Standards Board
-      - Cease to identify him or herself with the Fraternity in any manner on or off campus until expressly permitted to do so by the Standards Board
-    - ▪▪Definite period. A member suspended for a definite period shall:
-      - Remove him or herself and his or her personal effects from the property of the chapter and he or she may not  return until expressly permitted to do so by the Standards Board
-      - Not attend Fraternity meetings, vote, or hold office, nor shall he or she attend any Fraternity gathering not attended by the public until the end of the designated period of suspension.
-      - Cease to identify him or herself with the Fraternity in any manner on or off campus until the end of the designated period of suspension.
-      - Be entitled to return at the end of the designated period of suspension unless he or she is in violation of the terms of said suspension.
-      - Be automatically returned to good standing unless he or she is subject to further disciplinary action.
-  -
-    - ▪▪A Member on Probation shall:
-      - Follow the limitations, restriction, and terms of the probation.
-      - Pay all dues, fees, and assessments applicable to all Members in good standing unless expressly excused therefrom by the terms of the designated probation.
-    - ▪▪Probations can also happen after 3 warnings under the discretion of the Standards Board
-  - A Member may be required to compensate the Fraternity, chapter, or an individual for loss, damage or injury. This may take the form of monetary or material replacement.
-  - A Member who is fined shall, within the time prescribed, pay the fine to the Chapter. Refusal or failure to pay the fine assessed shall place the Member in bad standing with the Chapter with all the loss of privileges entailed therein.
-  - A written notice to the Member must be delivered by the VP of Standards or a member of the Standards Board stating that the Member is violating or has violated provisions of this code. This notice shall be signed in duplicate by the recipient and retained by the Chapter.
-    - ▪▪Only three warnings may be given before the Standards Board considers further punishment regardless of Membership or Officership status.
-  - Multiple Sanctions. More than one of the sanctions listed above may be imposed for any single violation.
+- Expulsion.
+  - An expelled member shall:
+    -	Surrender their membership and effects thereof to the President of Texas Lambda Alpha Nu.
+    -	Surrender clothing or jewelry bearing any identity with the Fraternity.
+    -	Remove him or herself and his or her personal effects from the property of the Chapter.
+    -	May not attend any meeting of any chapter.
+    -	Cease to identify himself or herself with the Fraternity in any manner on or off campus..
+  - Bannings and Warnings shall be delivered on paper, and shall be signed by all parties involved  and retained by the VP of Administration. 
+  -	The Secretary of Texas Lambda Alpha Nu shall maintain a permanent blacklist of all former members so expelled.
+-	Suspension. A member may be suspended for:
+  -	Indefinite period. A member suspended for an indefinite period shall:
+    -	Remove him or herself and his or her personal effects from the property of the Chapter and he or she may not return unless and until expressly permitted to do so by the Standards Board.
+    -	Not attend any Fraternity meetings, vote, or hold office, nor shall he or she attend any Fraternity gathering not attended by the public unless and until expressly permitted to do so by the Standards Board
+    -	Cease to identify him or herself with the Fraternity in any manner on or off campus until expressly permitted to do so by the Standards Board
+  -	Definite period. A member suspended for a definite period shall:
+    -	Remove him or herself and his or her personal effects from the property of the chapter and he or she may not  return until expressly permitted to do so by the Standards Board
+    -	Not attend Fraternity meetings, vote, or hold office, nor shall he or she attend any Fraternity gathering not attended by the public until the end of the designated period of suspension.
+    -	Cease to identify him or herself with the Fraternity in any manner on or off campus until the end of the designated period of suspension.
+    -	Be entitled to return at the end of the designated period of suspension unless he or she is in violation of the terms of said suspension.
+    -	Be automatically returned to good standing unless he or she is subject to further disciplinary action.
+-	Probation.
+  -	A Member on Probation shall:
+    -	Follow the limitations, restriction, and terms of the probation.
+    -	Pay all dues, fees, and assessments applicable to all Members in good standing unless expressly excused therefrom by the terms of the designated probation.
+  -	Probations can also happen after 3 warnings under the discretion of the Standards Board
+-	Restitution. A Member may be required to compensate the Fraternity, chapter, or an individual for loss, damage or injury. This may take the form of monetary or material replacement.
+-	Fine. A Member who is fined shall, within the time prescribed, pay the fine to the Chapter. Refusal or failure to pay the fine assessed shall place the Member in bad standing with the Chapter with all the loss of privileges entailed therein.
+-	Warnings. A written notice to the Member must be delivered by the VP of Standards or a member of the Standards Board stating that the Member is violating or has violated provisions of this code. This notice shall be signed in duplicate by the recipient and retained by the Chapter.
+  -	Only three warnings may be given before the Standards Board considers further punishment regardless of Membership or Officership status. 
+-	Multiple Sanctions. More than one of the sanctions listed above may be imposed for any single violation. 
+
 
 **Section 3.**  Risk Management
 
