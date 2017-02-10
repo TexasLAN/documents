@@ -136,8 +136,10 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   The person under consideration shall not be counted in determining the presence of a quorum nor whether the required two-thirds vote has been obtained.
 	   Upon a vote of removal or suspension of an officer, the normal vacancy policy immediately comes into effect.
 10. Powers of the Board
-	1. In its executive capacity, the Board is authorized to plan and conduct Rush as well as other events; to set and collect dues; take disciplinary action against Members under established Policies and Codes of Conduct; to accept new Pledges into the Fraternity and conduct all business necessary and proper to the function and continuance of the Fraternity that are otherwise not specified in these bylaws.
+	1. In its executive capacity, the Board is authorized to plan and conduct Rush as well as other events; to set and collect dues; to accept new Pledges into the Fraternity and conduct all business necessary and proper to the function and continuance of the Fraternity that are otherwise not specified in these bylaws.
 	2. The Board may make and impose no Rule, Policy or Code of Conduct upon the Membership of the Fraternity save by a 2/3rds vote of the Membership taken at a General or Special meeting of the Fraternity.
+11. Powers of the Standards Board
+	1. In its judicial capacity, the Standards Board is authorized to take disciplinary action against Members under established Policies and Codes of Conduct.
 
 **Article VI. Committees**
 
