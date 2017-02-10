@@ -103,7 +103,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   The Treasurer’s primary responsibility shall be to present a written statement of accounts and transactions to the board on a semesterly basis.
 	   In the case of financial difficulty, the Treasurer shall be responsible for notifying the Board immediately and assisting in the design and execution of recovery efforts.
 5. Terms of Office:
-    1. Elected Officer positions shall be elected upon on the 2nd to last scheduled meeting of the academic year.
+    1. During the 2nd to last scheduled meeting of the academic year, all elected Officer positions shall be voted in.
 	   In addition, an officer who is unable to complete the second semester of their duties shall be replaced in an election at the end of the fall semester.
     2. A Member may serve in an elected Officer position for only one full term. 
     3. A Member may be nominated for the same position repeatedly unless there is a compelling organizational reason to do so.
