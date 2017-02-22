@@ -107,7 +107,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   In addition, an officer who is unable to complete the second semester of their duties shall be replaced in an election at the end of the fall semester.
     2. A Member may serve in an elected Officer position for only one full term. 
     3. A Member may be nominated for the same position repeatedly unless there is a compelling organizational reason to not do so.
-	   Such reappointments shall be frowned upon.
+	   Such reappointments shall be frowned upon if the person has been in that position for more than a year.
     4. Each officer shall take office in the 2nd to last scheduled meeting of the academic year and serve a two-semester term.
 	   After holding a full term in office, they will be considered ineligible for election to the same position.
 6. Voting:
@@ -119,6 +119,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 7. Nominating:
     1. All nominated positions shall be chosen by the Board officer to whom the nominated position reports to.
     2. All nominated positions must be approved by a 2/3rds vote of the Board.
+    3. All nominated position terms are semester long and must be renewed at the end of each semester.
 8. Board meetings:
     1. Board meetings can be attended by all active members of the fraternity. 
     2. Meetings will adhere to a strict agenda organized by the secretary prior to the meeting.
