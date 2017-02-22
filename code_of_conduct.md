@@ -25,7 +25,7 @@ The Member Disciplinary Policy explains the procedures for reporting violations,
 
 **Article I: Reporting Violations**
 
-- Anyone desiring to lodge a complaint, whether formal or informal, shall inform any member of the Standards Board or VP or Standards.
+- Anyone desiring to lodge a complaint, whether formal or informal, shall inform any member of the Standards Board or Vice President of Standards (referred to as VP of Standards).
 - Informal complaints are usually, but not always, solved by talking to the accused about their current behavior and encouraging them to change in the future.
 - Formal complaints will be followed by a documented report, an investigation and a hearing detailed in this document.
 
@@ -121,7 +121,7 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
     -	May not attend any meeting of any chapter.
     -	Cease to identify himself or herself with the Fraternity in any manner on or off campus..
   - Bannings and Warnings shall be delivered on paper, and shall be signed by all parties involved  and retained by the VP of Administration. 
-  -	The Secretary of Texas Lambda Alpha Nu shall maintain a permanent blacklist of all former members so expelled.
+  -	The Vice President of Administration of Texas Lambda Alpha Nu shall maintain a permanent blacklist of all former members so expelled.
 -	Suspension. A member may be suspended for:
   -	Indefinite period. A member suspended for an indefinite period shall:
     -	Remove him or herself and his or her personal effects from the property of the Chapter and he or she may not return unless and until expressly permitted to do so by the Standards Board.
@@ -161,18 +161,9 @@ Interim suspension may be imposed:
 
 **Article VIII: Reinstatement After Discipline**
 
-**Section 1.**  Appeal of Expulsion. An expelled Member may present a petition for reinstatement to the Fraternity. The petition for reinstatement shall contain:
+**Section 1.**  The decision of the Standards Board and VP of Standards is final. Cases may only be reopened in the event that new evidence is presented to the VP of Standards that they determine could reasonably lead to a different decision.
 
-1. A narrative history of his or her association with the Fraternity.
-2. Written confirmation that the terms of the expulsion were complied with
-3. Circumstances of the expulsion
-4. The reasons for the application for reinstatement.
-
-The reinstatement application must be presented in writing to the Standards Board, which may then hear statements from the representative of the fact finding team, the accused, Members or others knowledgeable about facts of the expulsion.
-
-Only upon a clear showing of reform and relief should the Standards Board reinstate a Member who has been expelled. The Standards Board may restore the Member to full membership in good standing, restore him or her to membership on a lesser disciplinary status, or deny his or her petition. If the petition is denied, the expelled member may not repeat his or her petition for a period of at least one calendar year.
-
-**Section 2.**  The decision of the Standards Board and VP of Standards shall be publicized at the nearest chapter Meeting of Lambda Alpha Nu by the VP of Standards or a member of the Standards Board
+**Section 2.**  The decision of the Standards Board and VP of Standards shall be publicized at the nearest chapter Meeting of Lambda Alpha Nu by the VP of Standards or a member of the Standards Board.
 
 **Section 3.**  A disciplined or suspended Member shall, prior to any reinstatement to good standing, pay all regular fees and dues incurred prior to and during the disciplinary period, including general dues, unless exempt from the dues by the terms of the probation.
 
@@ -196,7 +187,15 @@ Only upon a clear showing of reform and relief should the Standards Board reinst
   - Rude behavior in online communication
 - Generally, many alleged violations may be managed as an informal charge or complaint. An informal hearing may be less procedurally rigid than a formal charge, but not necessarily more lenient when applying a sanction(s). The accused Member shall be notified in writing of the informal charge(s) before discussing the matter with the Standards Board and VP of Standards. If the Standards Board and VP of Standards determines the Member Code of Conduct and Member Disciplinary Policy or other Fraternity rules or procedures have been violated, sanctions may be imposed as set forth in this policy.
 
-**Section 2.** Investigations
+**Section 2.** Integrity of the Standards Board
+
+- In the event that a member of the Standards Board or the VP of Standards finds themselves unable to be impartial during the hearing due to personal relationships with the accused or complainant parties or otherwise, they shall do the following:
+  - recuse themselves from the investigation and hearing proceedings.
+  - recommend an impartial replacement from the Active membership in order to maintain the five Member judicial body.
+- Recommended replacements must pass a unanimous vote of the remaining Standards Board members on the merit of their impartiality to both the accused and complainant parties. If the replacement vote does not pass, the member must continue to recommend replacements until one passes a unanimous vote.
+- In the special event that the VP of Standards recuses themselves from the investigation and hearing proceedings, they must select a new acting VP of Standards from the remaining elected Standards Board members to preside over the hearing in addition to recommending their impartial replacement. If no elected Standards Board members remain, then the VP of Standards shall select an acting VP of Standards from the approved Standards Board replacements.
+
+**Section 3.** Investigations
 
 - The VP of Standards has the sole discretion to initiate a formal or informal investigation to determine if the charges have merit and/or if they can be disposed of administratively by mutual consent of the parties involved.
 - Where a formal investigation is initiated, the Standards Board and VP of Standards should assemble a fact-finding team that will conduct an investigation of the allegations. The fact-finding team should be formed as soon as practicable and should take whatever steps it deems appropriate to investigate the allegations.
@@ -210,7 +209,7 @@ Only upon a clear showing of reform and relief should the Standards Board reinst
   - Fact-finding conferences
 - The fact-finding team must present its findings within ten (10) days of the conclusion of its investigation. If the fact-finding team finds that the allegations are unfounded, it must present its report to the Standards Board and VP of Standards. If the allegations are determined to have merit, the chairman of the fact-finding team should prepare the matter to be presented to the Standards Board, VP of Standards.
 
-**Section 3.** Rights of the Accused
+**Section 4.** Rights of the Accused
 
 - Any Member charged with an offense shall have the right to a hearing before the Standards Board and VP of Standards.
 - The Accused shall have the right of timely notice of hearing, as hereinafter provided.
@@ -219,15 +218,12 @@ Only upon a clear showing of reform and relief should the Standards Board reinst
 - The Accused shall have the right to select his own counsel from the membership of the Fraternity, but it is emphasized that the disciplinary hearing procedures are those of Texas Lambda Alpha Nu and are not the procedures that would be utilized in a court of law.
 - Counsel or the Member may be asked to leave the hearing at any time by the presiding officers if, in the sole judgment of the presiding officers, counsel or the Member is disrupting the hearing.
 
-**Section 4.** Hearings
+**Section 5.** Hearings
 
 - If the Standards Board and VP of Standards elect to treat the matter as a formal complaint, then all charges shall be presented to the accused Member in written form. A time shall be set for a hearing, no more than 15 business days after the Member has been notified. Maximum time limits for scheduling of hearings may be extended at the discretion of the Standards Board and VP of Standards.
-- In the event that a member of the Standards Board or the VP of Standards finds themselves unable to be impartial during the hearing due to personal relationships with the accused or complainant parties or otherwise, they shall excuse themselves and recommend an impartial replacement from the Active membership in order to maintain the five Member judicial body.
-- In the event that a member of the Standards Board or the VP of Standards excuses themselves from the hearing, their recommended replacement must pass a unanimous vote of the remaining Standards Board members on the merit of their impartiality to both the accused and complainant parties. If the replacement vote does not pass, the member must continue to recommend replacements until one passes a unanimous vote
-- In the event that the VP of Standards excuses themselves from the hearing, they must select a new acting VP of Standards from the remaining elected Standards Board members to preside over the hearing in addition to recommending their impartial replacement. If no elected elected Standards Board members remain, then the VP of Standards shall select a presiding officer from the approved Standards Board replacements.
-- At the discretion of the acting Standards Board and VP of Standards, instead of a face-to-face hearing, participants in a hearing may be allowed to participate telephonically or submit written information.
-- The complainant may choose to remain anonymous to the accused and the acting Standards Board and VP of Standards shall respect the complainant&#39;s wish.
-- The acting Standards Board and VP of Standards, from here n simply  referred to as the Standards Board and VP of Standards, may conduct a formal hearing according to the following guidelines:
+- At the discretion of the Standards Board and VP of Standards, instead of a face-to-face hearing, participants in a hearing may be allowed to participate telephonically or submit written information.
+- The complainant may choose to remain anonymous to the accused and the Standards Board and VP of Standards shall respect the complainant&#39;s wish.
+- The Standards Board and VP of Standards may conduct a formal hearing according to the following guidelines:
   - The presiding officer, the VP of Standards, shall call the hearing to order.
   - Admission of any person to the hearing shall be at the discretion of the presiding officer.
   - The presiding officer shall expel from the hearing any person who, in his opinion, does not maintain proper decorum.
@@ -247,11 +243,11 @@ Only upon a clear showing of reform and relief should the Standards Board reinst
   - Within five (5) business days following the formal hearing, the Standards Board shall advise in writing its determination and the recommended sanction(s).
   - Within ten (10) business days following his receipt of the determination of the Standards Board, the VP of Standards must notify the accused and the Board of Officers of the sanctions imposed.
   - The notice of sanctions imposed should be in writing and sent by certified e-mail, acknowledgement of receiving the letter is requested. If applicable, the writing should also notify the accused that he has fifteen (15) business days to appeal the decision of the Standards Board and VP of Standards.
-- If theStandards Board and VP of Standards decide that expulsion of a member is appropriate, they may only do so by unanimous vote, the Standards Board and VP of Standards participating. If the vote fails then the Standards Board and VP of Standards shall continue discuss the issue until a unanimous vote is reached or the decision is overturned.
+- If the Standards Board and VP of Standards decide that expulsion of a member is appropriate, they may only do so by unanimous vote, the Standards Board and VP of Standards participating. If the vote fails then the Standards Board and VP of Standards shall continue discuss the issue until a unanimous vote is reached or the decision is overturned.
   - In all other cases where expulsion is not appropriate, sanctions may be imposed with a simple majority of the Standards Board and VP of Standards.
 - The Standards Board and the VP of Standards shall choose a Member to take notes during the hearing. The notes will be private to the Standards Board and the VP of Standards and used in order to reach a verdict.
 
 **Article X: Interpretation and Revision**
 
-1. Any question of interpretation regarding the Member Code of Conduct or Member Disciplinary Policy shall be referred to the Fraternity&#39;s VP of Standards
+1. Any question of interpretation regarding the Member Code of Conduct or Member Disciplinary Policy shall be referred to the Fraternity&#39;s VP of Standards.
 2. The Member Code of Conduct and the Member Disciplinary Policy shall be reviewed every year under the direction of the Board, VP of Standards and Standards Board
