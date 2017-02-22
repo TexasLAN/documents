@@ -119,7 +119,7 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 7. Nominating:
     1. All nominated positions shall be chosen by the Board officer to whom the nominated position reports to.
     2. All nominated positions must be approved by a 2/3rds vote of the Board.
-    3. All nominated position terms are semester long and must be renewed at the end of each semester.
+    3. All nominated position terms are a semester long and must be renewed at the end of each semester.
 8. Board meetings:
     1. Board meetings can be attended by all active members of the fraternity. 
     2. Meetings will adhere to a strict agenda organized by the secretary prior to the meeting.
