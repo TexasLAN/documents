@@ -12,7 +12,7 @@
 6. Members shall respect the dignity of all persons and will not physically, mentally, psychologically abuse or haze any human being nor allow themselves to be physically, mentally, psychologically abused or hazed.
 7. Members shall regard, refer and treat Members and all individuals with civility and respect.
 8. Members shall respect their property and the property of others and will neither abuse nor tolerate the abuse of property.
-9. Members shall pay any and all Chapter dues and assessments required for the Member to remain in good standing with the chapter.
+9. Members shall pay any and all Chapter dues and assessments required for the Member to remain in good standing with the Chapter.
 10. Members in good standing will make efforts to attend Chapter meetings.
 11. Members who are students shall abide by those academic standards established by LAN and by the college or university as a whole.
 12. In addition to this Code of Conduct and Member Disciplinary Policy, all members who attend colleges and universities are expected to abide by the policies and regulations that govern the duties, responsibilities and conduct explicitly or implicitly described in the university´s publications.
