@@ -12,8 +12,8 @@
 6. Members shall respect the dignity of all persons and will not physically, mentally, psychologically abuse or haze any human being nor allow themselves to be physically, mentally, psychologically abused or hazed.
 7. Members shall regard, refer and treat Members and all individuals with civility and respect.
 8. Members shall respect their property and the property of others and will neither abuse nor tolerate the abuse of property.
-9. Members shall pay any and all chapter dues and assessments required for the Member to remain in good standing with the chapter.
-10. Members in good standing will make efforts to attend chapter meetings.
+9. Members shall pay any and all Chapter dues and assessments required for the Member to remain in good standing with the chapter.
+10. Members in good standing will make efforts to attend Chapter meetings.
 11. Members who are students shall abide by those academic standards established by LAN and by the college or university as a whole.
 12. In addition to this Code of Conduct and Member Disciplinary Policy, all members who attend colleges and universities are expected to abide by the policies and regulations that govern the duties, responsibilities and conduct explicitly or implicitly described in the university´s publications.
 
@@ -77,8 +77,8 @@ All members in good standing and prospective members are entitled to receive a c
     7. Inducing fatigue or sleep deprivation
     8. Consumption of alcohol or other intoxicating substances
   6. Violation of a university&#39;s student code of conduct or any other university policy, rule or regulation.
-  7. Illegal possession of firearms, explosives, other weapons or dangerous chemicals on university premises or at Fraternity events.
-  8. Conduct which is disorderly, lewd, or indecent; breach of peace; or aiding, abetting , or procuring another person to breach the peace on university premises or at Fraternity events.
+  7. Unlawful possession of firearms, explosives, other weapons or dangerous chemicals on university premises or at Fraternity events.
+  8. Conduct which is disorderly, lewd, or indecent; breach of peace; or aiding, abetting, or procuring another person to breach the peace on university premises or at Fraternity events.
   9. Violation of the Oath of Membership.
   10. Abuse of Member Disciplinary Policy includes but is not limited to:
     1. Failure to obey the summons of the Standards Board and the VP of Standards or the Board
@@ -86,7 +86,7 @@ All members in good standing and prospective members are entitled to receive a c
     3. Disruption or interference with the orderly conduct of disciplinary proceedings
     4. Attempting to discourage an individual&#39;s proper participation in, or use of, the Member Disciplinary Policy.
     5. Attempting to influence the impartiality of a member of the Standards Board, VP of Standards or Board prior to, and/or during the course of disciplinary proceedings.
-    6. Harassment (verbal or physical) and/or intimidation, or any form of retaliation of a member of the Standards Board, VP of Standards or Board prior to, during, and/or after disciplinary proceedings
+    6. Attempting to harass, intimidate or retaliate against a member of the Standards Board
     7. Failure to comply with the sanction(s) imposed under the Member Disciplinary Policy
     8. Influencing or attempting to influence another person to commit an abuse of the Member Disciplinary Policy
 
@@ -118,9 +118,9 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
     -	Surrender their membership and effects thereof to the President of Texas Lambda Alpha Nu.
     -	Surrender clothing or jewelry bearing any identity with the Fraternity.
     -	Remove him or herself and his or her personal effects from the property of the Chapter.
-    -	May not attend any meeting of any chapter.
-    -	Cease to identify himself or herself with the Fraternity in any manner on or off campus..
-  - Bannings and Warnings shall be delivered on paper, and shall be signed by all parties involved  and retained by the VP of Administration. 
+    -	May not attend any meeting of any Chapter.
+    -	Cease to identify himself or herself with the Fraternity in any manner on or off campus.
+  - Bannings and Warnings shall be delivered on paper, and shall be signed by all parties involved and retained by the VP of Administration. 
   -	The Vice President of Administration of Texas Lambda Alpha Nu shall maintain a permanent blacklist of all former members so expelled.
 -	Suspension. A member may be suspended for:
   -	Indefinite period. A member suspended for an indefinite period shall:
@@ -128,7 +128,7 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
     -	Not attend any Fraternity meetings, vote, or hold office, nor shall he or she attend any Fraternity gathering not attended by the public unless and until expressly permitted to do so by the Standards Board
     -	Cease to identify him or herself with the Fraternity in any manner on or off campus until expressly permitted to do so by the Standards Board
   -	Definite period. A member suspended for a definite period shall:
-    -	Remove him or herself and his or her personal effects from the property of the chapter and he or she may not  return until expressly permitted to do so by the Standards Board
+    -	Remove him or herself and his or her personal effects from the property of the Chapter and he or she may not return until expressly permitted to do so by the Standards Board
     -	Not attend Fraternity meetings, vote, or hold office, nor shall he or she attend any Fraternity gathering not attended by the public until the end of the designated period of suspension.
     -	Cease to identify him or herself with the Fraternity in any manner on or off campus until the end of the designated period of suspension.
     -	Be entitled to return at the end of the designated period of suspension unless he or she is in violation of the terms of said suspension.
@@ -138,7 +138,7 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
     -	Follow the limitations, restriction, and terms of the probation.
     -	Pay all dues, fees, and assessments applicable to all Members in good standing unless expressly excused therefrom by the terms of the designated probation.
   -	Probations can also happen after 3 warnings under the discretion of the Standards Board
--	Restitution. A Member may be required to compensate the Fraternity, chapter, or an individual for loss, damage or injury. This may take the form of monetary or material replacement.
+-	Restitution. A Member may be required to compensate the Fraternity, Chapter, or an individual for loss, damage or injury. This may take the form of monetary or material replacement.
 -	Fine. A Member who is fined shall, within the time prescribed, pay the fine to the Chapter. Refusal or failure to pay the fine assessed shall place the Member in bad standing with the Chapter with all the loss of privileges entailed therein.
 -	Warnings. A written notice to the Member must be delivered by the VP of Standards or a member of the Standards Board stating that the Member is violating or has violated provisions of this code. This notice shall be signed in duplicate by the recipient and retained by the Chapter.
   -	Only three warnings may be given before the Standards Board considers further punishment regardless of Membership or Officership status. 
@@ -151,19 +151,19 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
 
 **Article VII** : **Interim Discipline**
 
-**Section 1.**  Interim Suspension. Upon receipt of a violation, the Standards Board with the VP of Standards may place Members on probation or suspension until a proper Hearing can be arranged. During the interim suspension, Members may be denied access to Fraternity activities or privileges (including chapter activities) for which the Member might otherwise be eligible, as the Standards Board may determine to be appropriate.
+**Section 1.**  Interim Suspension. Upon receipt of a violation, the Standards Board with the VP of Standards may place Members on probation or suspension until a proper Hearing can be arranged. During the interim suspension, Members may be denied access to Fraternity activities or privileges (including Chapter activities) for which the Member might otherwise be eligible, as the Standards Board may determine to be appropriate.
 
 Interim suspension may be imposed:
 
 - To ensure the safety and well-being of other Members, individuals, or property.
 - In order that a formal or informal investigation be performed of a potential violation.
-- If the Member poses a definite threat of disruption or interference with the normal operations of the university, a chapter or any other unit of the Fraternity.
+- If the Member poses a definite threat of disruption or interference with the normal operations of the University, a Chapter or any other unit of the Fraternity.
 
 **Article VIII: Reinstatement After Discipline**
 
 **Section 1.**  The decision of the Standards Board and VP of Standards is final. Cases may only be reopened in the event that new evidence is presented to the VP of Standards that they determine could reasonably lead to a different decision.
 
-**Section 2.**  The decision of the Standards Board and VP of Standards shall be publicized at the nearest chapter Meeting of Lambda Alpha Nu by the VP of Standards or a member of the Standards Board.
+**Section 2.**  The decision of the Standards Board and VP of Standards shall be publicized at the nearest Chapter Meeting of Lambda Alpha Nu by the VP of Standards or a member of the Standards Board.
 
 **Section 3.**  A disciplined or suspended Member shall, prior to any reinstatement to good standing, pay all regular fees and dues incurred prior to and during the disciplinary period, including general dues, unless exempt from the dues by the terms of the probation.
 
@@ -229,7 +229,7 @@ Interim suspension may be imposed:
   - The presiding officer shall expel from the hearing any person who, in his opinion, does not maintain proper decorum.
   - Hearings normally shall be conducted in private. At the request of the accused, and subject to the discretion of the presiding officer other persons may be allowed to attend the hearing.
   - In hearings involving more than one accused member, the presiding officer, in his discretion, may permit the hearings concerning each Member to be conducted separately.
-  - The complainant and the accused have the right to be assisted by any adviser they choose, at their own expense. The complainant and/or the accused are responsible for presenting his or her own case and, therefore, advisers are not permitted to speak or to participate directly in any hearing before theStandards Board and VP of Standards unless expressly asked to do so by the presiding officer. The complainant and the accused may present their case on separate dates in order to ensure anonymity of the complainant.
+  - The complainant and the accused have the right to be assisted by any adviser they choose, at their own expense. The complainant and/or the accused are responsible for presenting his or her own case and, therefore, advisers are not permitted to speak or to participate directly in any hearing before the Standards Board and VP of Standards unless expressly asked to do so by the presiding officer. The complainant and the accused may present their case on separate dates in order to ensure anonymity of the complainant.
   - The complainant, the accused, and the representative of the fact-finding team shall each have the right to make an open argument before the evidence is presented and a closing argument after all the evidence has been presented. The complainant and the accused may present their arguments on separate dates to ensure the anonymity of the complainant.
   - The complainant, the accused, and the representative of the fact-finding team shall have the privilege of presenting witnesses, subject to the right of cross-examination by the Standards Board and VP of Standards. The complainant and the accused may present  their witnesses on separate dates to ensure the anonymity of the complainant.
   - The Standards Board may accept pertinent records, exhibits and written statements as evidence for consideration at the discretion of the presiding officer.
