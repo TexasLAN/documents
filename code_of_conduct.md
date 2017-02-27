@@ -31,7 +31,7 @@ The Member Disciplinary Policy explains the procedures for reporting violations,
 
 **Article II: Distribution**
 
-All members in good standing and prospective members are entitled to receive a copy of the Code of Conduct and Member Disciplinary Policy.
+All members in good standing and prospective members are entitled to receive a copy of the Code of Conduct and Member Disciplinary Policy upon request.
 
 **Article III: Definitions**
 
