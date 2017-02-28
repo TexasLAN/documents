@@ -132,7 +132,7 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
     -	Not attend Fraternity meetings, vote, or hold office, nor shall he or she attend any Fraternity gathering not attended by the public until the end of the designated period of suspension.
     -	Cease to identify him or herself with the Fraternity in any manner on or off campus until the end of the designated period of suspension.
     -	Be entitled to return at the end of the designated period of suspension unless he or she is in violation of the terms of said suspension.
-    -	Be automatically returned to good standing unless he or she is subject to further disciplinary action.
+    -	Be automatically returned at the end of the designated period of suspension to good standing unless he or she is subject to further disciplinary action.
 -	Probation.
   -	A Member on Probation shall:
     -	Follow the limitations, restriction, and terms of the probation.
