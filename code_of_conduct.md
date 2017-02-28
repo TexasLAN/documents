@@ -207,7 +207,7 @@ Interim suspension may be imposed:
   - Requests for written information
   - On-site visits
   - Fact-finding conferences
-- The fact-finding team must present its findings within ten (10) days of the conclusion of its investigation. If the fact-finding team finds that the allegations are unfounded, it must present its report to the Standards Board and VP of Standards. If the allegations are determined to have merit, the chairman of the fact-finding team should prepare the matter to be presented to the Standards Board, VP of Standards.
+- The fact-finding team must present its findings within ten (10) days of the conclusion of its investigation. If the fact-finding team finds that the allegations are unfounded, it must present its report to the Standards Board and VP of Standards.
 
 **Section 4.** Rights of the Accused
 
