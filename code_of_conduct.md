@@ -172,8 +172,8 @@ Interim suspension may be imposed:
 **Section 1.** Charges against the Accused
 
 - Any person may report a violation of policies by lodging a report with a Member of Standards Board or the VP of Standards.
-- When the action complained of is also a violation of University rules and regulations, the charge should be simultaneously reported to the University&#39;s dean of students.
-- When the action complained of is also a violation of criminal statutes, the facts should be simultaneously reported to area and/or campus law enforcement authorities.
+- When the action complained of is also a violation of University rules and regulations, the charge shall be simultaneously reported to the University&#39;s dean of students.
+- When the action complained of is also a violation of criminal statutes, the facts shall be simultaneously reported to area and/or campus law enforcement authorities.
 - Any charge or allegation should be submitted as soon as possible after the conduct or event takes place. If a person believes that the conduct is about to take place, a report should be submitted before the alleged conduct occurs.
 - If the alleged conduct violates the Fraternity&#39;s Code of Conduct and Member Disciplinary Policy, the Standards Board along with the VP of Standards shall determine if the matter is to be treated by the Fraternity as a &quot;formal&quot; or &quot;informal&quot; charge.
 - Examples of formal charges include, but are not limited to:
@@ -198,8 +198,8 @@ Interim suspension may be imposed:
 **Section 3.** Investigations
 
 - The VP of Standards has the sole discretion to initiate a formal or informal investigation to determine if the charges have merit and/or if they can be disposed of administratively by mutual consent of the parties involved.
-- Where a formal investigation is initiated, the Standards Board and VP of Standards should assemble a fact-finding team that will conduct an investigation of the allegations. The fact-finding team should be formed as soon as practicable and should take whatever steps it deems appropriate to investigate the allegations.
-- Each fact-finding team appointed by the Standards Board and VP of Standards should include, where possible, a member of the Standards Board and whatever other Members are deemed appropriate.
+- Where a formal investigation is initiated, the Standards Board and VP of Standards shall assemble a fact-finding team that will conduct an investigation of the allegations. The fact-finding team shall be formed as soon as practicable and shall take whatever steps it deems appropriate to investigate the allegations.
+- Each fact-finding team appointed by the Standards Board and VP of Standards shall include, where possible, a member of the Standards Board and whatever other Members are deemed appropriate.
 - Any member of the Standards Board or VP of Standards who participates in the fact-finding team shall refrain from interactions with the accused and complainant parties outside of official Standards procedures for the duration of the investigation and, if deemed necessary, subsequent hearing in order to preserve impartiality.
 - The fact-finding team may utilize whatever reasonable investigative methods are at their disposal to investigate whether an offense has been committed. These methods include, but are not limited to:
   - In-person or telephone interviews of witnesses or the accused
@@ -242,7 +242,7 @@ Interim suspension may be imposed:
   - In the event a Member fails to obey the summons of the Standards Board and VP of Standards, he or she may be disciplined. If the absentee Member has an excuse that is determined by the VP of Standards to be valid, then the Member may not be found to have violated the Code of Conduct or the Member Disciplinary Policy solely because the Member failed to appear before the Standards Board and VP of Standards. In all cases, the evidence in support of the charges shall be presented.
   - Within five (5) business days following the formal hearing, the Standards Board shall advise in writing its determination and the recommended sanction(s).
   - Within ten (10) business days following his receipt of the determination of the Standards Board, the VP of Standards must notify the accused and the Board of Officers of the sanctions imposed.
-  - The notice of sanctions imposed should be in writing and sent by certified e-mail, acknowledgement of receiving the letter is requested. If applicable, the writing should also notify the accused that he has fifteen (15) business days to appeal the decision of the Standards Board and VP of Standards.
+  - The notice of sanctions imposed shall be in writing and sent by certified e-mail, acknowledgement of receiving the letter is requested.
 - If the Standards Board and VP of Standards decide that expulsion of a member is appropriate, they may only do so by unanimous vote, the Standards Board and VP of Standards participating. If the vote fails then the Standards Board and VP of Standards shall continue discuss the issue until a unanimous vote is reached or the decision is overturned.
   - In all other cases where expulsion is not appropriate, sanctions may be imposed with a simple majority of the Standards Board and VP of Standards.
 - The Standards Board and the VP of Standards shall choose a Member to take notes during the hearing. The notes will be private to the Standards Board and the VP of Standards and used in order to reach a verdict.
