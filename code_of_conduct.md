@@ -102,7 +102,7 @@ All members in good standing and prospective members are entitled to receive a c
 
 **Section 1**. Any Member found guilty of any of the above offenses shall, upon a disciplinary determination by the Standards Board with the VP of Standards, be subjected to one or more of the following penalties:
 
-- Explusion.
+- Expulsion.
 - Suspension.
   - Indefinite Period.
   - Designated Period.
