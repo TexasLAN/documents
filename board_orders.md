@@ -24,3 +24,9 @@ In the event that there needs to be a purchase that is not in the budget and tha
 5. The purchase proposal is executed as described in the proposal form.
 6. The Treasurer will follow up with the proposal sponsor to ensure it is properly and fully executed.
 7. If the purchase is not properly executed as described in the purchase proposal, the Treasurer will take steps to correct the situation (including, but not limited to, cancellation of the purchase proposal).
+
+**Board Order II. Service Hours**
+
+Current members of the organization must complete 4 hours of service as approved upon by the Vice-President of Service.
+If not completed, the member will not be permitted to the end-of-semester party, known as "Semi-Formal" or "Formal".
+They can donate to a charity/nonprofit picked by Vice-President of Service which was approved by the Board with a 2/3rds vote in order to attend the end-of-semester party at a rate of $10 per hour not completed.
