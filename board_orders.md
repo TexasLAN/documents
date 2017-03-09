@@ -30,9 +30,5 @@ In the event that there needs to be a purchase that is not in the budget and tha
 1. Active members of the organization must pay a $40 fee to attend the end-of-semester event, known as "Semi-Formal" or "Formal".
     This fee will be donated to a nonprofit organization that is chosen by the Vice-President of Service Activities.
     The selected nonprofit organization must be approved by a 2/3rds vote of the Board.
-2. Active members who have not paid the fee will be not allowed to attend the end-of-semester event and will not be allowed to be a guest to the event.
+2. Active members who have not paid the fee will not be allowed to attend the end-of-semester event and will not be allowed to be a guest to the event.
 3. This fee can be reduced by $10 per hour of service that is approved by the Vice-President of Service Activities.
-
-Current members of the organization must complete 4 hours of service as approved upon by the Vice-President of Service.
-If not completed, the member will not be permitted to the end-of-semester party, known as "Semi-Formal" or "Formal".
-They can donate to a charity/nonprofit picked by Vice-President of Service which was approved by the Board with a 2/3rds vote in order to attend the end-of-semester party at a rate of $10 per hour not completed.
