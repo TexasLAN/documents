@@ -25,10 +25,10 @@ In the event that there needs to be a purchase that is not in the budget and tha
 6. The Treasurer will follow up with the proposal sponsor to ensure it is properly and fully executed.
 7. If the purchase is not properly executed as described in the purchase proposal, the Treasurer will take steps to correct the situation (including, but not limited to, cancellation of the purchase proposal).
 
-**Board Order II. Service Fee**
+**Board Order II. Service Hours**
 
-1. Active members of the organization must pay a $40 fee to attend the end-of-semester event, known as "Semi-Formal" or "Formal".
-    This fee will be donated to a nonprofit organization that is chosen by the Vice-President of Service Activities.
+1. Active members of the organization must spend 4 hours of service that is approved by the Vice-President of Service Activities to attend the end-of-semester event, known as "Semi-Formal" or "Formal".
+2. Active members who are unable to complete these hours, are allowed to donate $10 per hour of service not completed.
+    These donatations must got to a nonprofit organization that is chosen by the Vice-President of Service Activities.
     The selected nonprofit organization must be approved by a 2/3rds vote of the Board.
-2. Active members who have not paid the fee will not be allowed to attend the end-of-semester event and will not be allowed to be a guest to the event.
-3. This fee can be reduced by $10 per hour of service that is approved by the Vice-President of Service Activities.
+3. Active members who have not completed their service hours or donated for their service hours will not be allowed to attend the end-of-semester event and will not be allowed to be a guest to the event.
