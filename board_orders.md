@@ -117,7 +117,6 @@ In the event the Fraternity makes a donation or other contribution to a non-prof
 * Must be a registered 501(c)(3) non-profit organization.
 * Any contribution would not create a conflict of interest with any member of the Fraternity.
 
-
 ## Board Order IV. Election Process
 
 * Elections shall occur on the second to last General Meeting of the semester.
