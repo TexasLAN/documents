@@ -117,7 +117,18 @@ In the event the Fraternity makes a donation or other contribution to a non-prof
 * Must be a registered 501(c)(3) non-profit organization.
 * Any contribution would not create a conflict of interest with any member of the Fraternity.
 
-## Board Order IV. Service Hours
+
+## Board Order IV. Election Process
+
+* Elections shall occur on the second to last General Meeting of the semester.
+* Applications for the election shall open 2 weeks before the election.
+* Applications will close at the start of the third to last General Meeting of the semester.
+* Discussions of the candidates will occur on the third to last General Meeting of the semester.
+    * During that meeting, all elected positions will be discussed in order, as described by the Bylaws.
+    * Each candidate of the current position will have 5 minutes to give a speech.
+    * After each speech is given, all candidates of the position must leave the room and the rest of the membership will have 5 minutes to talk about the candidates.
+
+## Board Order V. Service Hours
 
 1. Active members of the organization must complete 4 hours of service that is approved by the Vice-President of Service Activities to attend the end-of-semester event, known as "Semi-Formal" or "Formal".
 2. Active members who are unable to complete these hours are allowed to donate $10 per hour of service not completed.
