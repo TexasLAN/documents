@@ -121,7 +121,7 @@ In the event the Fraternity makes a donation or other contribution to a non-prof
 
 * Elections shall occur on the second to last General Meeting of the semester.
 * Applications for the election shall open 2 weeks before the election.
-* Applications will close prior to the third to last General Meeting of the semester.
+* Applications will close at the start of the third to last General Meeting of the semester.
 * Discussions of the candidates will occur on the third to last General Meeting of the semester.
     * During that meeting, all elected positions will be discussed in order, as described by the Bylaws.
     * Each candidate of the current position will have 5 minutes to give a speech.
