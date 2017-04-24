@@ -129,7 +129,7 @@ In the event the Fraternity makes a donation or other contribution to a non-prof
     
 ## Board Order V. Risk Management Duties
 
-The following is a list of things that all RM’s should look out for/do while on duty:
+The following is a list of things that all RMs should look out for/do while on duty:
 * Illegal substances of any kind.
 * Fire in the fire pit, stove or anywhere else.
 * Destruction/damage of house property.
