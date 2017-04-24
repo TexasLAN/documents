@@ -126,3 +126,16 @@ In the event the Fraternity makes a donation or other contribution to a non-prof
     * During that meeting, all elected positions will be discussed in order, as described by the Bylaws.
     * Each candidate of the current position will have 5 minutes to give a speech.
     * After each speech is given, all candidates of the position must leave the room and the rest of the membership will have 5 minutes to talk about the candidates.
+    
+## Board Order V. Risk Management Duties
+
+The following is a list of things that all RM’s should look out for/do while on duty:
+* Illegal substances of any kind.
+* Fire in the fire pit, stove or anywhere else.
+* Destruction/damage of house property.
+* Non-LAN members accessing the fridge, or food on the shelves in the kitchen.
+* Non-LAN members accessing the second floor, or back house.
+* Over-intoxicated or aggressive behavior. 
+* Appropriately marking the underage people attending the social events.
+* In the event that the cops show up, RM’s should alert each other (and possibly other officers nearby) and be the point of contact with them.
+
