@@ -139,4 +139,4 @@ The following is a list of things that all RMs should look out for/do while on d
 * Over-intoxicated or aggressive behavior. 
 * Appropriately marking the underage people attending the social events.
 
-In the event that the law enforcement authorities show up, RM’s should alert each other (and possibly other officers nearby) and be the point of contact with them.
+In the event that the law enforcement authorities show up, RM’s should alert each other (and possibly other officers nearby) as quickly as possible. A "senior" RM, who shall be appointed by the Risk Management Office prior to the start of the event, will be the point of contact with the authorities. All other RM's will obey the messages from the senior RM, and will assist in taking care of the people at the event.
