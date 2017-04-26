@@ -126,3 +126,11 @@ In the event the Fraternity makes a donation or other contribution to a non-prof
     * During that meeting, all elected positions will be discussed in order, as described by the Bylaws.
     * Each candidate of the current position will have 5 minutes to give a speech.
     * After each speech is given, all candidates of the position must leave the room and the rest of the membership will have 5 minutes to talk about the candidates.
+
+## Board Order V. Service Hours
+
+1. Active members of the organization must complete 4 hours of service that is approved by the Vice-President of Service Activities to attend the end-of-semester event, known as "Semi-Formal" or "Formal".
+2. Active members who are unable to complete these hours are allowed to donate $10 per hour of service not completed.
+    These donatations must go to a nonprofit organization that is chosen by the Vice-President of Service Activities.
+    The selected nonprofit organization must be approved by a 2/3rds vote of the Board.
+3. Active members who have not completed their service hours or donated for their service hours will not be allowed to attend the end-of-semester event and will not be allowed to be a guest to the event.
