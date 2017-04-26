@@ -67,8 +67,8 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
     6. Vice-president of New Member Services
     7. Treasurer
 3. Qualifications:
-    1. The President shall have been nominated by a non-officer member of the organization and have remained an active member for no less than one full academic year.
-    2. The other officers must be current members of the organization and be nominated by their peers.
+    1. All Board officers shall have been elected by the organization and have remained an active member for no less than one full academic semester.
+    2. The other officers must be active members of the organization and be either nominated by their reporting officer or elected upon by general membership depending on their position.
        These positions may be held in the first semester of active membership.
 4. Duties of Officers:
     1. The President, being an elected position, shall preside at all meetings, and is responsible for ensuring that the Board, officers, and the organization's members are aware of and fulfill their responsibilities, comply with applicable rules and bylaws, conduct board business effectively and efficiently, and are accountable for their performance.
