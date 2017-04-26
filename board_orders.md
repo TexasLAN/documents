@@ -134,7 +134,7 @@ The following is a list of things that all RMs should look out for/do while on d
 * Illegal substances of any kind.
 * Fire in the fire pit, stove or anywhere else.
 * Destruction/damage of house property.
-* Non-LAN members accessing the fridge, or food on the shelves in the kitchen.
+* Anyone accessing the fridge, or food on the shelves in the kitchen.
 * Non-LAN members accessing the second floor, or back house.
 * Over-intoxicated or aggressive behavior. 
 * Appropriately marking the underage people attending the social events.
