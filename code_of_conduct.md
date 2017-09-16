@@ -2,7 +2,34 @@
 
 **Chapter I**
 
-**Article I: Member Expectations**
+**Article I: Definitions**
+
+- The term &quot;Fraternity&quot; shall refer to Texas Lambda Alpha Nu.
+- The term &quot;Member&quot; shall refer to those people who have been in good standing, paid all applicable dues and assessments to all units of the Fraternity and were initiated into Texas Lambda Alpha Nu.
+- The term &quot;Chapter&quot; shall refer to those separate legal entities that have a charter agreement with Texas Lambda Alpha Nu to operate as a chapter of Texas Lambda Alpha Nu. The term Chapter refers to both undergraduate and graduate entities that have an active charter with the Fraternity.
+- The term &quot;University&quot; and &quot;College&quot; means any university or college being attended by Members of Texas Lambda Alpha Nu
+- The term &quot;Student&quot; includes all persons taking courses at a university, both full-time and part-time, pursuing the baccalaureate, and/or first professional degree. Persons who are not officially enrolled for a particular term but who have a continuing relationship with a university are considered &quot;Students.&quot;
+- The term &quot;Pledge&quot; shall refer to any individual who has rushed and is on the pathway to Membership of Texas Lambda Alpha Nu.
+- The term &quot;Guest&quot; shall refer to any individual present by invitation whether personal or general at an event hosted by Texas Lambda Alpha Nu
+- The term &quot;Affiliate&quot; shall refer to any individual, Pledge or Member enjoying the friendship of Texas Lambda Alpha Nu.
+- The term &quot;university official&quot; includes any person employed by a college or university to perform assigned administrative or professional responsibilities.
+- The term &quot;member of the university community&quot; includes any person who is a student, faculty member, university official or any other person employed by the university.
+- The term &quot;university premises&quot; includes all land, buildings, facilities, and other property in the possession of or owned, used, or controlled by the university including adjacent streets and sidewalks.
+- The term &quot;shall&quot; is used in the imperative sense.
+- The term &quot;may&quot; is used in the permissive sense.
+- The term &quot;harassment&quot;  includes but is not limited to, verbal and written comments judged to constitute physical and/or verbal abuse, personal attacks, or discriminatory language on the basis of:
+  - Gender identity
+  - Sexual orientation
+  - Disability
+  - Physical appearance
+  - Race
+  - Age
+  - Religion
+  - Political affiliation
+  - Marital status
+  - Veteran status
+
+**Article II: Member Expectations**
 
 1. Members shall respect the aims and objectives of Texas Lambda Alpha Nu.
 2. Members shall abide by all the rules, policies and procedures found in Texas Lambda Alpha Nu&#39;s Bylaws, initiations rituals, this code of conduct and such additional regulations as may be enacted in accordance with existing rules.
@@ -33,34 +60,7 @@ The Member Disciplinary Policy explains the procedures for reporting violations,
 
 All members in good standing and prospective members are entitled to receive a copy of the Code of Conduct and Member Disciplinary Policy upon request.
 
-**Article III: Definitions**
-
-- The term &quot;Fraternity&quot; shall refer to Texas Lambda Alpha Nu.
-- The term &quot;Member&quot; shall refer to those people who have been in good standing, paid all applicable dues and assessments to all units of the Fraternity and were initiated into Texas Lambda Alpha Nu.
-- The term &quot;Chapter&quot; shall refer to those separate legal entities that have a charter agreement with Texas Lambda Alpha Nu to operate as a chapter of Texas Lambda Alpha Nu. The term Chapter refers to both undergraduate and graduate entities that have an active charter with the Fraternity.
-- The term &quot;University&quot; and &quot;College&quot; means any university or college being attended by Members of Texas Lambda Alpha Nu
-- The term &quot;Student&quot; includes all persons taking courses at a university, both full-time and part-time, pursuing the baccalaureate, and/or first professional degree. Persons who are not officially enrolled for a particular term but who have a continuing relationship with a university are considered &quot;Students.&quot;
-- The term &quot;Pledge&quot; shall refer to any individual who has rushed and is on the pathway to Membership of Texas Lambda Alpha Nu.
-- The term &quot;Guest&quot; shall refer to any individual present by invitation whether personal or general at an event hosted by Texas Lambda Alpha Nu
-- The term &quot;Affiliate&quot; shall refer to any individual, Pledge or Member enjoying the friendship of Texas Lambda Alpha Nu.
-- The term &quot;university official&quot; includes any person employed by a college or university to perform assigned administrative or professional responsibilities.
-- The term &quot;member of the university community&quot; includes any person who is a student, faculty member, university official or any other person employed by the university.
-- The term &quot;university premises&quot; includes all land, buildings, facilities, and other property in the possession of or owned, used, or controlled by the university including adjacent streets and sidewalks.
-- The term &quot;shall&quot; is used in the imperative sense.
-- The term &quot;may&quot; is used in the permissive sense.
-- The term &quot;harassment&quot;  includes but is not limited to, verbal and written comments judged to constitute physical and/or verbal abuse, personal attacks, or discriminatory language on the basis of:
-  - Gender identity
-  - Sexual orientation
-  - Disability
-  - Physical appearance
-  - Race
-  - Age
-  - Religion
-  - Political affiliation
-  - Marital status
-  - Veteran status
-
-**Article IV: Proscribed Conduct**
+**Article III: Proscribed Conduct**
 
 1. Any Member found to have committed any of the following misconduct (but not limited to misconduct specifically contained herein) is subject to the disciplinary sanctions outlined herein:
   1. Violations of any rule found in the Fraternity&#39;s Bylaws
@@ -90,7 +90,7 @@ All members in good standing and prospective members are entitled to receive a c
     7. Failure to comply with the sanction(s) imposed under the Member Disciplinary Policy
     8. Influencing or attempting to influence another person to commit an abuse of the Member Disciplinary Policy
 
-**Article  V: Violation of Law and University Discipline**
+**Article IV: Violation of Law and University Discipline**
 
 1. University disciplinary proceedings may be instituted against a Member charged with a violation of a law that may also be a violation of this disciplinary policy or the code of conduct. For example, if a violation of the law and/or the Member Disciplinary Policy results from the same factual situation, without regard to the pendency of civil litigation in court or criminal arrest and prosecution, proceedings under this Member Disciplinary Policy may be carried out prior to, simultaneously with, or following civil, criminal or University proceedings off-campus.
   1. In such an event, the decision to continue proceedings under the Member Disciplinary Policy shall be left at the discretion of the VP of Standards.
@@ -98,7 +98,7 @@ All members in good standing and prospective members are entitled to receive a c
     1. The Standards Board and VP of Standards shall use the verdict of the civil, criminal or University proceedings to determine whether a violation of the Member Disciplinary Policy or the Code of Conduct occurred and impose the necessary penalties as defined in Article VI of the Member Disciplinary Policy.
 2. The Fraternity shall cooperate completely with law enforcement and other agencies in the enforcement of criminal laws and in the conditions imposed by criminal courts for the rehabilitation of violators.
 
-**Article VI: Discipline of the Individual Member**
+**Article V: Discipline of the Individual Member**
 
 **Section 1**. Any Member found guilty of any of the above offenses shall, upon a disciplinary determination by the Standards Board with the VP of Standards, be subjected to one or more of the following penalties:
 
@@ -149,7 +149,7 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
 
 - At any point during a Texas Lambda Alpha Nu event, the officer in charge of Risk Management may require a Member, guest or affiliate to leave the event if they deem it necessary.
 
-**Article VII** : **Interim Discipline**
+**Article VI** : **Interim Discipline**
 
 **Section 1.**  Interim Suspension. Upon receipt of a violation, the Standards Board with the VP of Standards may place Members on probation or suspension until a proper Hearing can be arranged. During the interim suspension, Members may be denied access to Fraternity activities or privileges (including Chapter activities) for which the Member might otherwise be eligible, as the Standards Board may determine to be appropriate.
 
@@ -159,7 +159,7 @@ Interim suspension may be imposed:
 - In order that a formal or informal investigation be performed of a potential violation.
 - If the Member poses a definite threat of disruption or interference with the normal operations of the University, a Chapter or any other unit of the Fraternity.
 
-**Article VIII: Reinstatement After Discipline**
+**Article VII: Reinstatement After Discipline**
 
 **Section 1.**  The decision of the Standards Board and VP of Standards is final. Cases may only be reopened in the event that new evidence is presented to the VP of Standards that they determine could reasonably lead to a different decision.
 
@@ -167,7 +167,7 @@ Interim suspension may be imposed:
 
 **Section 3.**  A disciplined or suspended Member shall, prior to any reinstatement to good standing, pay all regular fees and dues incurred prior to and during the disciplinary period, including general dues, unless exempt from the dues by the terms of the probation.
 
-**Article IX: Hearing Policies and Procedures**
+**Article VIII: Hearing Policies and Procedures**
 
 **Section 1.** Charges against the Accused
 
@@ -247,7 +247,7 @@ Interim suspension may be imposed:
   - In all other cases where expulsion is not appropriate, sanctions may be imposed with a simple majority of the Standards Board and VP of Standards.
 - The Standards Board and the VP of Standards shall choose a Member to take notes during the hearing. The notes will be private to the Standards Board and the VP of Standards and used in order to reach a verdict.
 
-**Article X: Interpretation and Revision**
+**Article IX: Interpretation and Revision**
 
 1. Any question of interpretation regarding the Member Code of Conduct or Member Disciplinary Policy shall be referred to the Fraternity&#39;s VP of Standards.
 2. The Member Code of Conduct and the Member Disciplinary Policy shall be reviewed every year under the direction of the Board, VP of Standards and Standards Board
