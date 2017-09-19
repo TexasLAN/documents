@@ -128,6 +128,7 @@ In the event the Fraternity makes a donation or other contribution to a non-prof
     * After each speech is given, all candidates of the position must leave the room and the rest of the membership will have 5 minutes to talk about the candidates.
     
 ## Board Order V. Risk Management Duties
+
 For the purposes of this order, 'Risk Management' refers to the elected Risk Management Officer and/or the active members who have been designated (by the Risk Management Officer) to assist with the task of risk management at a particular social event.
 
 The following is a list of things that all RMs should look out for/do while on duty:
@@ -140,3 +141,7 @@ The following is a list of things that all RMs should look out for/do while on d
 * Appropriately marking the underage people attending the social events.
 
 In the event that the law enforcement authorities show up, RM’s should alert each other (and possibly other officers nearby) as quickly as possible. A "senior" RM, who shall be appointed by the Risk Management Office prior to the start of the event, will be the point of contact with the authorities. All other RM's will obey the messages from the senior RM, and will assist in taking care of the people at the event.
+
+## Board Order VI. Pledge Agreement
+
+As part of the pledge process, each pledge must agree to and sign a copy of the [Pledge Agreement](./pledge_agreement.md).
