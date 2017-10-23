@@ -8,7 +8,7 @@
 - The term &quot;Member&quot; shall refer to those people who have been in good standing, paid all applicable dues and assessments to all units of the Fraternity and were initiated into Texas Lambda Alpha Nu.
 - The term &quot;Chapter&quot; shall refer to those separate legal entities that have a charter agreement with Texas Lambda Alpha Nu to operate as a chapter of Texas Lambda Alpha Nu. The term Chapter refers to both undergraduate and graduate entities that have an active charter with the Fraternity.
 - The term &quot;University&quot; and &quot;College&quot; means any university or college being attended by Members of Texas Lambda Alpha Nu
-- The term &quot;Student&quot; includes all persons taking courses at a university, both full-time and part-time, pursuing the baccalaureate, and/or first professional degree. Persons who are not officially enrolled for a particular term but who have a continuing relationship with a university are considered &quot;Students.&quot;
+- The term &quot;Student&quot; includes all persons who are currently enrolled in the University. Persons who are not officially enrolled for a particular term but who have a continuing relationship with a university are considered &quot;Students.&quot;
 - The term &quot;Pledge&quot; shall refer to any individual who has rushed and is on the pathway to Membership of Texas Lambda Alpha Nu.
 - The term &quot;Guest&quot; shall refer to any individual present by invitation whether personal or general at an event hosted by Texas Lambda Alpha Nu
 - The term &quot;Affiliate&quot; shall refer to any individual, Pledge or Member enjoying the friendship of Texas Lambda Alpha Nu.
@@ -31,18 +31,18 @@
 
 **Article II: Member Expectations**
 
-1. Members shall respect the aims and objectives of Texas Lambda Alpha Nu.
-2. Members shall abide by all the rules, policies and procedures found in Texas Lambda Alpha Nu&#39;s Bylaws, initiations rituals, this code of conduct and such additional regulations as may be enacted in accordance with existing rules.
-3. Members will strive to conduct themselves according to Texas Lambda Alpha Nu&#39;s pillars of solidarity, scholarship and ambition.
-4. Members shall be responsible for their own behavior, recognizing that their actions reflect upon themselves, their peers and occasionally others.
-5. Members shall avoid actions that violate or diminish the collegial, academic, personal or professional ethics or the legal and civil rights of peers, the public, university personnel or others who may be affected by their actions.
-6. Members shall respect the dignity of all persons and will not physically, mentally, psychologically abuse or haze any human being nor allow themselves to be physically, mentally, psychologically abused or hazed.
-7. Members shall regard, refer and treat Members and all individuals with civility and respect.
-8. Members shall respect their property and the property of others and will neither abuse nor tolerate the abuse of property.
-9. Members shall pay any and all Chapter dues and assessments required for the Member to remain in good standing with the Chapter.
-10. Members in good standing will make efforts to attend Chapter meetings.
-11. Members who are students shall abide by those academic standards established by LAN and by the college or university as a whole.
-12. In addition to this Code of Conduct and Member Disciplinary Policy, all members who attend colleges and universities are expected to abide by the policies and regulations that govern the duties, responsibilities and conduct explicitly or implicitly described in the university´s publications.
+- Members shall respect the aims and objectives of Texas Lambda Alpha Nu.
+- Members shall abide by all the rules, policies and procedures found in Texas Lambda Alpha Nu&#39;s Bylaws, initiations rituals, this code of conduct and such additional regulations as may be enacted in accordance with existing rules.
+- Members will strive to conduct themselves according to Texas Lambda Alpha Nu&#39;s pillars of solidarity, scholarship and ambition.
+- Members shall be responsible for their own behavior, recognizing that their actions reflect upon themselves, their peers and occasionally others.
+- Members shall avoid actions that violate or diminish the collegial, academic, personal or professional ethics or the legal and civil rights of peers, the public, university personnel or others who may be affected by their actions.
+- Members shall respect the dignity of all persons and will not physically, mentally, psychologically abuse or haze any human being nor allow themselves to be physically, mentally, psychologically abused or hazed.
+- Members shall regard, refer and treat Members and all individuals with civility and respect.
+- Members shall respect their property and the property of others and will neither abuse nor tolerate the abuse of property.
+- Members shall pay any and all Chapter dues and assessments required for the Member to remain in good standing with the Chapter.
+- Members in good standing will make efforts to attend Chapter meetings.
+- Members who are students shall abide by those academic standards established by LAN and by the college or university as a whole.
+- In addition to this Code of Conduct and Member Disciplinary Policy, all members who attend colleges and universities are expected to abide by the policies and regulations that govern the duties, responsibilities and conduct explicitly or implicitly described in the university´s publications.
 
 **Chapter II**
 
@@ -62,43 +62,35 @@ All members in good standing and prospective members are entitled to receive a c
 
 **Article III: Proscribed Conduct**
 
-1. Any Member found to have committed any of the following misconduct (but not limited to misconduct specifically contained herein) is subject to the disciplinary sanctions outlined herein:
-  1. Violations of any rule found in the Fraternity&#39;s Bylaws
-  2. Violations of this Code of Conduct
-  3. Physical abuse, verbal abuse, threats, intimidation, harassment, coercion and/or other conduct that threatens or endangers the health or safety of any person.
-  4. Attempt or actual theft of and/or damage to money or property
-  5. Hazing defined as an act which endangers the mental or physical health or safety of a person, or which destroys or removes public or private property, for the purpose of initiation, admission into, affiliation with, or as a condition for continued membership in, a group or organization. Members are encouraged to intervene if any fellow member engages in such acts, and to bring it to an authority immediately. Hazing is exemplified but not limited to by the following:
-    1. Calisthenics
-    2. Scavenger hunts
-    3. Degrading, humiliating, or harassing activities
-    4. Verbal abuse
-    5. Personal servitude
-    6. Required uniforms or costumes
-    7. Inducing fatigue or sleep deprivation
-    8. Consumption of alcohol or other intoxicating substances
-  6. Violation of a university&#39;s student code of conduct or any other university policy, rule or regulation.
-  7. Unlawful possession of firearms, explosives, other weapons or dangerous chemicals on university premises or at Fraternity events.
-  8. Conduct which is disorderly, lewd, or indecent; breach of peace; or aiding, abetting, or procuring another person to breach the peace on university premises or at Fraternity events.
-  9. Violation of the Oath of Membership.
-  10. Abuse of Member Disciplinary Policy includes but is not limited to:
-    1. Failure to obey the summons of the Standards Board and the VP of Standards or the Board
-    2. Falsification, distortion, or misrepresentation of information before the Standards Board, VP of Standards, or the Board
-    3. Disruption or interference with the orderly conduct of disciplinary proceedings
-    4. Attempting to discourage an individual&#39;s proper participation in, or use of, the Member Disciplinary Policy.
-    5. Attempting to influence the impartiality of a member of the Standards Board, VP of Standards or Board prior to, and/or during the course of disciplinary proceedings.
-    6. Attempting to harass, intimidate or retaliate against a member of the Standards Board
-    7. Failure to comply with the sanction(s) imposed under the Member Disciplinary Policy
-    8. Influencing or attempting to influence another person to commit an abuse of the Member Disciplinary Policy
+Any Member found to have committed any of the following misconduct (but not limited to misconduct specifically contained herein) is subject to the disciplinary sanctions outlined herein:
+  - Violations of any rule found in the Fraternity&#39;s Bylaws
+  - Violations of this Code of Conduct
+  - Physical abuse, verbal abuse, threats, intimidation, harassment, coercion and/or other conduct that threatens or endangers the health or safety of any person.
+  - Attempt or actual theft of and/or damage to money or property
+  - Hazing defined as an act which endangers the mental or physical health or safety of a person, or which destroys or removes public or private property, for the purpose of initiation, admission into, affiliation with, or as a condition for continued membership in, a group or organization. Members are encouraged to intervene if any fellow member engages in such acts, and to bring it to an authority immediately. Hazing is exemplified but not limited to by the following:
+    - Calisthenics
+    - Scavenger hunts
+    - Degrading, humiliating, or harassing activities
+    - Verbal abuse
+    - Personal servitude
+    - Required uniforms or costumes
+    - Inducing fatigue or sleep deprivation
+    - Consumption of alcohol or other intoxicating substances
+  - Violation of a university&#39;s student code of conduct or any other university policy, rule or regulation.
+  - Unlawful possession of firearms, explosives, other weapons or dangerous chemicals on university premises or at Fraternity events.
+  - Conduct which is disorderly, lewd, or indecent; breach of peace; or aiding, abetting, or procuring another person to breach the peace on university premises or at Fraternity events.
+  - Violation of the Oath of Membership.
+  - Abuse of Member Disciplinary Policy includes but is not limited to:
+    - Failure to obey the summons of the Standards Board and the VP of Standards or the Board
+    - Falsification, distortion, or misrepresentation of information before the Standards Board, VP of Standards, or the Board
+    - Disruption or interference with the orderly conduct of disciplinary proceedings
+    - Attempting to discourage an individual&#39;s proper participation in, or use of, the Member Disciplinary Policy.
+    - Attempting to influence the impartiality of a member of the Standards Board, VP of Standards or Board prior to, and/or during the course of disciplinary proceedings.
+    - Attempting to harass, intimidate or retaliate against a member of the Standards Board
+    - Failure to comply with the sanction(s) imposed under the Member Disciplinary Policy
+    - Influencing or attempting to influence another person to commit an abuse of the Member Disciplinary Policy
 
-**Article IV: Violation of Law and University Discipline**
-
-1. University disciplinary proceedings may be instituted against a Member charged with a violation of a law that may also be a violation of this disciplinary policy or the code of conduct. For example, if a violation of the law and/or the Member Disciplinary Policy results from the same factual situation, without regard to the pendency of civil litigation in court or criminal arrest and prosecution, proceedings under this Member Disciplinary Policy may be carried out prior to, simultaneously with, or following civil, criminal or University proceedings off-campus.
-  1. In such an event, the decision to continue proceedings under the Member Disciplinary Policy shall be left at the discretion of the VP of Standards.
-  2. Should the VP of Standards decide to discontinue proceedings under the Member Disciplinary Policy until after civil, criminal or University proceedings have finished, the Accused shall be placed on Interim Suspension, as defined in Article VII of the Member Disciplinary Policy, until a verdict has been reached by said civil, criminal or University proceedings.
-    1. The Standards Board and VP of Standards shall use the verdict of the civil, criminal or University proceedings to determine whether a violation of the Member Disciplinary Policy or the Code of Conduct occurred and impose the necessary penalties as defined in Article VI of the Member Disciplinary Policy.
-2. The Fraternity shall cooperate completely with law enforcement and other agencies in the enforcement of criminal laws and in the conditions imposed by criminal courts for the rehabilitation of violators.
-
-**Article V: Discipline of the Individual Member**
+**Article IV: Discipline of the Individual Member**
 
 **Section 1**. Any Member found guilty of any of the above offenses shall, upon a disciplinary determination by the Standards Board with the VP of Standards, be subjected to one or more of the following penalties:
 
@@ -144,12 +136,11 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
   -	Only three warnings may be given before the Standards Board considers further punishment regardless of Membership or Officership status. 
 -	Multiple Sanctions. More than one of the sanctions listed above may be imposed for any single violation. 
 
-
 **Section 3.**  Risk Management
 
 - At any point during a Texas Lambda Alpha Nu event, the officer in charge of Risk Management may require a Member, guest or affiliate to leave the event if they deem it necessary.
 
-**Article VI** : **Interim Discipline**
+**Article V** : **Interim Discipline**
 
 **Section 1.**  Interim Suspension. Upon receipt of a violation, the Standards Board with the VP of Standards may place Members on probation or suspension until a proper Hearing can be arranged. During the interim suspension, Members may be denied access to Fraternity activities or privileges (including Chapter activities) for which the Member might otherwise be eligible, as the Standards Board may determine to be appropriate.
 
@@ -159,7 +150,7 @@ Interim suspension may be imposed:
 - In order that a formal or informal investigation be performed of a potential violation.
 - If the Member poses a definite threat of disruption or interference with the normal operations of the University, a Chapter or any other unit of the Fraternity.
 
-**Article VII: Reinstatement After Discipline**
+**Article VI: Reinstatement After Discipline**
 
 **Section 1.**  The decision of the Standards Board and VP of Standards is final. Cases may only be reopened in the event that new evidence is presented to the VP of Standards that they determine could reasonably lead to a different decision.
 
@@ -167,7 +158,7 @@ Interim suspension may be imposed:
 
 **Section 3.**  A disciplined or suspended Member shall, prior to any reinstatement to good standing, pay all regular fees and dues incurred prior to and during the disciplinary period, including general dues, unless exempt from the dues by the terms of the probation.
 
-**Article VIII: Hearing Policies and Procedures**
+**Article VII: Hearing Policies and Procedures**
 
 **Section 1.** Charges against the Accused
 
@@ -247,7 +238,17 @@ Interim suspension may be imposed:
   - In all other cases where expulsion is not appropriate, sanctions may be imposed with a simple majority of the Standards Board and VP of Standards.
 - The Standards Board and the VP of Standards shall choose a Member to take notes during the hearing. The notes will be private to the Standards Board and the VP of Standards and used in order to reach a verdict.
 
+**Article VIII: Violation of Law and University Discipline**
+
+- University disciplinary proceedings may be instituted against a Member charged with a violation of a law that may also be a violation of this disciplinary policy or the code of conduct. 
+  - For example, if a violation of the law and/or the Member Disciplinary Policy results from the same factual situation, without regard to the pending civil litigation in court or criminal arrest and prosecution, proceedings under this Member Disciplinary Policy may be carried out prior to, simultaneously with, or following civil, criminal or University proceedings off-campus.
+  - In such an event, the decision to continue proceedings under the Member Disciplinary Policy shall be left at the discretion of the VP of Standards.
+  - Should the VP of Standards decide to discontinue proceedings under the Member Disciplinary Policy until after civil, criminal or University proceedings have finished, the Accused shall be placed on Interim Suspension, as defined in Article VII of the Member Disciplinary Policy, until a verdict has been reached by said civil, criminal or University proceedings.
+    - The Standards Board and VP of Standards shall use the verdict of the civil, criminal or University proceedings to determine whether a violation of the Member Disciplinary Policy or the Code of Conduct occurred and impose the necessary penalties as defined in Article VI of the Member Disciplinary Policy.
+- The Fraternity shall cooperate completely with law enforcement and other agencies in the enforcement of criminal laws and in the conditions imposed by criminal courts for the rehabilitation of violators.
+
+
 **Article IX: Interpretation and Revision**
 
-1. Any question of interpretation regarding the Member Code of Conduct or Member Disciplinary Policy shall be referred to the Fraternity&#39;s VP of Standards.
-2. The Member Code of Conduct and the Member Disciplinary Policy shall be reviewed every year under the direction of the Board, VP of Standards and Standards Board
+- Any question of interpretation regarding the Member Code of Conduct or Member Disciplinary Policy shall be referred to the Fraternity&#39;s VP of Standards.
+- The Member Code of Conduct and the Member Disciplinary Policy shall be reviewed every year under the direction of the Board, VP of Standards and Standards Board
