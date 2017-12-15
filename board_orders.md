@@ -89,7 +89,9 @@ The overdue balance includes, but is not limited to, dues, fees, and merchandise
 **Article IV. Payment and Refunds**
 
 * Membership dues must be paid via a payment method sanctioned by the Treasurer.
-* Initiated members are not eligible for any form of refund.
+* Initiated members are eligible for a full refund of any paid membership dues less any third party processing fees until midnight (CDT) of the actives-specific dues date.
+* Initiated members are responsible for any remaining dues balance if a refund is not requested by the deadline defined above.
+* In the event of a personal, financial, family, or other such emergency after the deadline specified above, the Board may unanimously vote to grant a full refund less any third party processing fees.
 * Terminated pledges are eligible for a full refund of any paid membership dues less any third party processing fees.
 
 **Article V. Extensions**
