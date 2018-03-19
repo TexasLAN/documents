@@ -138,7 +138,12 @@ When these penalties are properly imposed upon a Member, the penalties shall be 
 
 **Section 3.**  Risk Management
 
-- At any point during a Texas Lambda Alpha Nu event, the officer in charge of Risk Management may require a Member, guest or affiliate to leave the event if they deem it necessary.
+- As Risk Management of an event, a member or affiliate must adhere to the following rules:
+  - Stay for the duration of the event, unless permitted to leave by head RM
+  - Refrain from excessive drinking
+  - Watch out any potential risk
+  - Remove, with permission of the head RM, anyone from the event if it is deemed necessary
+
 
 **Article V** : **Interim Discipline**
 
