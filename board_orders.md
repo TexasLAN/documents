@@ -147,3 +147,14 @@ In the event that the law enforcement authorities show up, RM’s should alert e
 ## Board Order VI. Pledge Agreement
 
 As part of the pledge process, each pledge must agree to and sign a copy of the [Pledge Agreement](./pledge_agreement.md).
+
+## Board Order VII. Service Requirements
+
+**Article 1. Required Hours**
+At the beginning of every semester, the current standing Vice President of Service will set the minimum number of required service hours for that active semester. This number will be broadcasted to the active membership on all applicable mediums of communication.
+
+**Article 2. Consequences for Lack of Compliance**
+Members who do not meet the minimum requirements for service will face consequences such as but not limited to:
+* Written warnings
+* Not being permitted to attend formal events
+* Event suspension
