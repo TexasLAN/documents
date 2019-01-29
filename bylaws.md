@@ -49,7 +49,6 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
     3. Vice-president of Service Activities
     4. Vice-president of Standards
         1. Standards Board Members
-        2. Risk Management Officer
     5. Vice-president of Social Affairs
         1. Historian
         2. Solidarity Officer
@@ -81,10 +80,8 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	   This includes efforts to introduce members to open source communities as well as the management of efforts to provide technical service to local charities in addition to any other nontechnical service opportunities.
     4. The Vice-President of Standards, being an elected position, is responsible for being a point of contact for any issue regarding the code of conduct.
        They are responsible for taking disciplinary action as stated in the code of conduct against individuals who have broken it in agreement with the Standards Board.
-       They will also be responsible for the proactive assessment of risks for all organization events and activities as advised by the Risk Management Officer.
+       They will also be responsible for the proactive assessment of risks for all organization events and activities and shall be responsible for ensuring a Risk Management Officer is present at events, either by appointing such an Officer or defaulting to an elected Risk Managment Officer.
         1. The Standards Board, being comprised of officers elected into their position, is responsible for advising the Vice-President of Standards in all situations regarding issues arisen. They will act as a point of contact for any issue regarding the code of conduct.
-        2. The Risk Management Officer, being an elected position, is responsible for assessing the risk of all organization events and activities.
-           They will advise the Vice-President of Standards of appropriate action regarding the reduction or elimination of the risk associated with said events and activities.
     5. The Vice-President of Social Affairs, being an elected position, shall have responsibility for the organization and planning of all official social events, to include organizing rush events in concert with the Vice-President of New Member Services, and primary responsibility for normal semester social activities.
 	   They will also be responsible for managing the official social media accounts for the organization.
         1. The Historian, being a nominated position, is expected to record the social events put on by the organization and make such records available to the Board and other Officers.
