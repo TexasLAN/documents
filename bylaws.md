@@ -138,6 +138,17 @@ The Fraternity of Lambda Alpha Nu exists to cultivate a strong community around 
 	2. The Board may make and impose no Rule, Policy or Code of Conduct upon the Membership of the Fraternity save by a 2/3rds vote of the Membership taken at a General or Special meeting of the Fraternity.
 11. Powers of the Standards Board
 	1. In its judicial capacity, the Standards Board is authorized to take disciplinary action against Members under established Policies and Codes of Conduct.
+12. Terms and Responsibilities of Risk Management
+    1. Selection of Risk Management Personnel: Any and all Risk Management personnel will be designated by the Vice President of Standards on an event by event basis. They will be designated either on a voluntary basis, or in the event that there are not enough volunteers, by a rule based system detailed in the current board order. At any time, there must always exist a board order detailing the aforementioned default manner of selecting Risk Management personnel. Every LAN sanctioned event must have, at absolute minimum, two Risk Management personnel present for the duration of the event.
+
+    2. General Responsibility of Risk Management Personnel: The Risk Management personnel are jointly designated as the first points of contact for all matters involving risk specific to the event which they are assigned. Should the risk go beyond the scope of the event, the matter will be deferred to Vice President of Standards. A "head" of Risk Management, who will be appointed by the Vice President of Standards prior to the start of the event, will be the point of contact with the authorities. All other Risk Management personnel will obey the messages from the head of Risk Management, and will assist in taking care of the people attending the event. It will be the responsibility of any Risk Management personnel to be vigilant for members (or non-members attending LAN sanctioned events) who could potentially pose risk to themselves or others. Risks are defined as (but not limited to) the following:
+
+    - Illegal substances of any kind.
+    - Destruction/damage of property.
+    - Overly-intoxicated or aggressive behavior.
+    - Appropriately marking underage people attending LAN sanctioned social events.
+    
+    3. Risk Management personnel are, at all times, required to be free of intoxicants during the duration of their duty (the bounds of which are determined by the Vice President of Standards).
 
 **Article VI. Committees**
 
