@@ -158,3 +158,17 @@ Members who do not meet the minimum requirements for service will face consequen
 * Written warnings
 * Not being permitted to attend formal events
 * Event suspension
+
+## Board Order VIII. Intoxication Strike Policy
+
+In order to maintain the safety of all Lambda Alpha Nu members, this board order proposes to establish a policy that outlines the consequences of unreasonable intoxication. The threshold for “unreasonable intoxication” being passed will be determined by the Vice President of Standards (and if necessary, the standards board) on a case by case basis. Please note that this is not intended to discourage having a good time at events, it is merely a system that is set up just in case a problem arises, so that we can apply rules evenly and fairly.
+
+This system will operate on a cumulative “strike” basis, meaning that each offense will result in an increased measure of discipline. These strikes do not go away. The strikes are as follows:
+
+(First Strike) The member in question will have a talk with the Vice President of Standards about your actions and measures they will take to ensure that it does not happen again.
+(Second Strike) The member in question will have another conversation with the Vice President of Standards, along with being unable to drink at the next event that they attend where alcohol is present.
+(Third Strike) The member in question will be asked to no longer drink for the remainder of the semester, and will also have to complete Alcohol Basics, an alcohol safety course (the completion of which must be verified with the Vice President of Standards) before being allowed to drink again.
+Any further incidents warranting a “strike” will result in the member being banned from consuming alcohol at any Lambda Alpha Nu event for the remainder of their time in the organization.
+
+Failure to comply with any of the terms of each “strike” will result in the examination of the case by the Vice President of Standards and the Standards Board, with the recommended severity of the punishment being expulsion from Lambda Alpha Nu.
+
